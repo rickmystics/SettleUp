@@ -1,0 +1,6 @@
+{
+  "name": "SettleUp",
+  "description": "Track money between friends. Settle without awkwardness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

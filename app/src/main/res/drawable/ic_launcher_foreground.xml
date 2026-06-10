@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer splitting neon circle -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,54 A20,20 0 1,0 74,54 A20,20 0 1,0 34,54"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00F5A0" />
+        
+    <!-- Upper right split arrow -->
+    <path
+        android:fillColor="#00F5A0"
+        android:pathData="M 64,30 L 78,30 L 78,44" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 44,54 C 44,40 60,30 78,30"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00F5A0" />
+
+    <!-- Lower left counterpart split arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44,78 L 30,78 L 30,64" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 64,54 C 64,68 48,78 30,78"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- Pure White Central Rupee Cash Coin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 L48,42 L48,45 L54,45 C56,45 57,46 57,48 L48,48 L48,51 L56,51 C55,54 53,55 50,55 L46,55 L46,58 L54,66 L59,66 L50,57 C55,56 58,54 59,51 L60,51 L60,48 L59,48 C59,46 58,45 57,44 L60,44 L60,42 Z" />
+</vector>
